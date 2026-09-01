@@ -1,7 +1,6 @@
 ---
 name: arai-na
-description: Re-explain your previous answer in plain Thai when you've lost the thread, restoring skipped reasoning and context instead of just rewording it.
-disable-model-invocation: true
+description: Re-explain the previous answer in plain Thai when the user loses the thread, restoring skipped reasoning and context instead of rewording it.
 license: MIT
 ---
 
